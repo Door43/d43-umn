@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[umn:home|Door43 (umn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-umn|d43-umn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-umn/archive/master.zip|d43-umn.zip]]
+
+**Recent Changes**
+{{changes>ns = umn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/umn|Ethnologue data]]
+
